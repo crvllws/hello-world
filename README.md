@@ -1,2 +1,2 @@
 # hello-world
- The begging to figure out the workflow
+ The begging of workflow
